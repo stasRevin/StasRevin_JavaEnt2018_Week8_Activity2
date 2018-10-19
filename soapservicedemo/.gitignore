@@ -47,3 +47,15 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+
+
+../.DS_Store
+../.idea/
+../TagHandler/
+../lambdas/.idea/
+../lambdas/lambdas.iml
+../lambdas/out/
+../lambdas/src/com/company/Main.java
+.idea/misc.xml
+soapservicedemo.iml
+../student/
